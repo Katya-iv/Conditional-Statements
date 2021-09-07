@@ -7,7 +7,7 @@ if city=="Sofia":
     if product=="water":
         print(f"You have to pay {0.80 * qty}")
     if product=="beer":
-        print(f"Yo have to pay {1.20* qty}")
+        print(f"You have to pay {1.20* qty}")
     if product=="sweets":
         print (f"You have to pay {1.45 * qty}")
     if product=="peanuts":
